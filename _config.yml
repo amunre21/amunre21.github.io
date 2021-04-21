@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # 태마 색 "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "amunre21 blog"
+title                    : "Hello, word!"
 title_separator          : "-"
-subtitle                 : "ver 1.0" # site tagline that appears below site title in masthead
+subtitle                 : #"ver 1.0" # site tagline that appears below site title in masthead
 name                     : "ryeon"
-description              : "프론트와 알고리즘 공부하는 학생입니다"
+description              : "너구리는 맛있다"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -283,6 +283,6 @@ defaults:
       sidebar:
         nav: "posts"
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
