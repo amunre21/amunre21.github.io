@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # 태마 색 "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Hello, word!"
+title                    : "Hello, world!"
 title_separator          : "-"
 subtitle                 : #"ver 1.0" # site tagline that appears below site title in masthead
 name                     : "ryeon"
@@ -286,3 +286,4 @@ defaults:
       comments: true
       share: true
       related: true
+      classes: wide
