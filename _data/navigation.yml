@@ -22,3 +22,7 @@ posts:
         url: /categories/#boj
       - title: "프로그래머스"
         url: /categories/#programmers
+  - title: "CS"
+    children:
+      - title: "JavaScript"
+        url: /categories/#js
