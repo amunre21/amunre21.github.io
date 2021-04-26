@@ -22,7 +22,13 @@ posts:
         url: /categories/#boj
       - title: "프로그래머스"
         url: /categories/#programmers
-  - title: "CS"
+  - title: "FE"
     children:
       - title: "JavaScript"
         url: /categories/#js
+      - title: "HTML"
+        url: /categories/#html
+      - title: "CSS"
+        url: /categories/#css
+      - title: "Network"
+        url: /categories/#network
