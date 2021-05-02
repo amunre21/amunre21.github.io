@@ -24,6 +24,8 @@ posts:
         url: /categories/#programmers
   - title: "FE"
     children:
+      - title: "Web"
+        url: /categories/#web
       - title: "JavaScript"
         url: /categories/#js
       - title: "HTML"
