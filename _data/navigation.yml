@@ -22,6 +22,8 @@ posts:
         url: /categories/#boj
       - title: "프로그래머스"
         url: /categories/#programmers
+      - title: "코테 후기"
+        url: /categories/#testreview
   - title: "FE"
     children:
       - title: "Web"
