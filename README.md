@@ -2,9 +2,9 @@
 
 #### [링크](https://amunre21.github.io/)로 이동하시면 방문하실 수 있습니다.
 
-취급 분야 : 프론트 엔드, Computer Science
-메인 언어 : JavaScript
-사용 테마 : Minimal Mistakes jekyll theme
+취급 분야 : 프론트 엔드, Computer Science   
+메인 언어 : JavaScript   
+사용 테마 : Minimal Mistakes jekyll theme   
 
 #### 변경이력
 |날짜|내용|
